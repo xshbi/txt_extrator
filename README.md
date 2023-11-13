@@ -89,4 +89,4 @@ Ensure that your virtual environment is activated. If not, activate it using the
 Run your project:
 
 ```bash
-python your_script.py
+python app.py
