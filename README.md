@@ -4,7 +4,7 @@ you can extract the text from image to text file
 
 ## Overview
 
-Briefly describe the purpose and goals of your project.
+you can extract the text from image to text file.
 
 ## Prerequisites
 
@@ -16,13 +16,14 @@ Briefly describe the purpose and goals of your project.
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/xshbi/txt_extrator.git
+   
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repo
+    cd txt_extrator
     ```
 
 3. Create a virtual environment. Run the following command based on your operating system:
