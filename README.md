@@ -1,6 +1,7 @@
 # txt_extrator
 you can extract the text from image to text file
 # Project Name
+Extration of text from image 
 
 ## Overview
 
